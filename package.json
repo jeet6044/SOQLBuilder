@@ -9,8 +9,7 @@
         "express": "~4.4.5",
         "logfmt": "~1.1.2",
         "body-parser": "~1.6.2",
-        "ejs": "^1.0.0"
-    "devDependencies": {
+        "ejs": "^1.0.0",
         "foreman": "^2.0.0"
     },
     "devDependencies": {},
